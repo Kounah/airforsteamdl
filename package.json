@@ -1,0 +1,19 @@
+{
+  "name": "airforsteamdl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "afs": "bin/afs.js"
+  },
+  "dependencies": {
+    "commander": "^2.17.1",
+    "request": "^2.87.0",
+    "shelljs": "^0.8.2"
+  }
+}
